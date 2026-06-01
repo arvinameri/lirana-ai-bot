@@ -1,0 +1,22 @@
+# Security & Credentials
+.env
+*.pem
+
+# Database & Caches
+*.sqlite3
+*.db
+redis_dump.rdb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Backups & Logs
+scripts/backups/
+*.log
+
+# Personal files
+arvin.txt
