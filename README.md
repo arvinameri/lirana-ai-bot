@@ -147,7 +147,7 @@ python main.py
 
 <div align="center">
   <h3>Built by Arvin Ameri</h3>
-  <p>📍 Amsterdam, Netherlands &nbsp;|&nbsp; Full-Stack AI Developer</p>
+  <p>📍 Zanjan, Iran &nbsp;|&nbsp; Full-Stack AI Developer</p>
   <p>
     <a href="https://www.linkedin.com/in/arvinameri">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
